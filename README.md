@@ -1,13 +1,13 @@
 # pond.io
-A visualization for your search queries.
+A visualization for your search queries. [Presentation slides](https://docs.google.com/presentation/d/16CYNNYIfLg0jiyL6-M2GSI_9qby1XZwFHqB4xuOhBFI/edit?usp=sharing).
 
-## [Motivation](https://docs.google.com/presentation/d/16CYNNYIfLg0jiyL6-M2GSI_9qby1XZwFHqB4xuOhBFI/edit?usp=sharing): 
+## [Motivation]: 
 What if you could:
 - Know which general topics you’ve been curious about? 
 - See your search history in a personalized and digestible visual?
 - Track trends over time?
 
-Solution: pond.io 
+Solution: pond.io
 
 <img width="1366" alt="Screen Shot 2022-08-28 at 1 16 54 PM" src="https://user-images.githubusercontent.com/49102723/187086436-6cc4ba85-a4d7-42fa-8758-b147a2557094.png">
 
@@ -26,4 +26,4 @@ Chrome Extension / D3 visualization (JS stack --> REST API Microservice Backend 
 
 
 ##### Contributors: 
-@karenli6, @cynthia9chen
+@cynthia9chen @karenli6
