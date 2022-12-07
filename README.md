@@ -1,7 +1,7 @@
 # pond.io
 A visualization for your search queries. [Presentation slides](https://docs.google.com/presentation/d/16CYNNYIfLg0jiyL6-M2GSI_9qby1XZwFHqB4xuOhBFI/edit?usp=sharing).
 
-## [Motivation]: 
+## Motivation: 
 What if you could:
 - Know which general topics you’ve been curious about? 
 - See your search history in a personalized and digestible visual?
